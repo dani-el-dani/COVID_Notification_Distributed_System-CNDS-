@@ -12,6 +12,7 @@ javac *.java
 Then run rmic command to generate stubs.
 
 rmic CNDSFirstParticipantImpl
+
 rmic CNDSParticipantImpl
 
 Then run the registry using this command.
